@@ -1,0 +1,37 @@
+[
+    {
+        "transactionName": "open_homepage",
+        "rawStartTime": 1733764679162,
+        "rawEndTime": 1733764679520
+    },
+    {
+        "transactionName": "open_signuppage",
+        "rawStartTime": 1733764679571,
+        "rawEndTime": 1733764679690
+    },
+    {
+        "transactionName": "add_register_data",
+        "rawStartTime": 1733764679725,
+        "rawEndTime": 1733764679889
+    },
+    {
+        "transactionName": "open_intro_page",
+        "rawStartTime": 1733764679921,
+        "rawEndTime": 1733764680072
+    },
+    {
+        "transactionName": "open_Itinerary_list",
+        "rawStartTime": 1733764680118,
+        "rawEndTime": 1733764680375
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1733764680421,
+        "rawEndTime": 1733764680574
+    },
+    {
+        "transactionName": "6_Task_Register",
+        "rawStartTime": 1733764679141,
+        "rawEndTime": 1733764680579
+    }
+]

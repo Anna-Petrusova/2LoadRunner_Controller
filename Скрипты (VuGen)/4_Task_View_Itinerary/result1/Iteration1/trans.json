@@ -1,0 +1,47 @@
+[
+    {
+        "transactionName": "open_homepage",
+        "rawStartTime": 1733984893842,
+        "rawEndTime": 1733984894447
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1733984894479,
+        "rawEndTime": 1733984894653
+    },
+    {
+        "transactionName": "open_Itinerary_list",
+        "rawStartTime": 1733984894700,
+        "rawEndTime": 1733984894971
+    },
+    {
+        "transactionName": "open_Itinerary_list",
+        "rawStartTime": 1733984895034,
+        "rawEndTime": 1733984895238
+    },
+    {
+        "transactionName": "open_Itinerary_list",
+        "rawStartTime": 1733984895302,
+        "rawEndTime": 1733984895523
+    },
+    {
+        "transactionName": "open_Flights_page",
+        "rawStartTime": 1733984895585,
+        "rawEndTime": 1733984895808
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1733984895840,
+        "rawEndTime": 1733984895982
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1733984896015,
+        "rawEndTime": 1733984896142
+    },
+    {
+        "transactionName": "4_Task_View_Itinerary",
+        "rawStartTime": 1733984893827,
+        "rawEndTime": 1733984896158
+    }
+]

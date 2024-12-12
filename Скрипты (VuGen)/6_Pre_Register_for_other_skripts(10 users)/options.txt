@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IW:\for_repo\2LoadRunner_Controller\Скрипты\6_Pre_Register_for_other_skripts(10 users)
+-IW:\Program Files (x86)\HPE\LoadRunner\include
+-ew:\for_repo\2loadrunner_controller\скрипты\6_pre_register_for_other_skripts(10 users)\\logfile.log
+w:\for_repo\2loadrunner_controller\скрипты\6_pre_register_for_other_skripts(10 users)\\combined_6_Pre_Register_for_other_skripts(10 users).c
+w:\for_repo\2loadrunner_controller\скрипты\6_pre_register_for_other_skripts(10 users)\\pre_cci.c

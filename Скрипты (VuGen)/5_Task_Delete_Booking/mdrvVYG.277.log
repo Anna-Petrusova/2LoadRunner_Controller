@@ -1,0 +1,92 @@
+Start auto log messages stack - Iteration 23.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1323 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 43.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1321 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 62.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1323 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 63.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1323 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 64.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1323 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 82.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1322 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 78.	[MsgId: MMSG-10545]
+Action.c(40): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/login.pl?intro=true"  	[MsgId: MERR-26612]
+Action.c(40): Error -26366: "Text=Welcome, <b>Borman</b>, to the Web Tours" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 83.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1321 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 84.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1321 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 85.	[MsgId: MMSG-10545]
+Action.c(98): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(98): Warning -35049: No match found for the requested parameter "list_flightID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): Warning -35049: No match found for the requested parameter "c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(98): web_url("Itinerary Button") highest severity level was "warning", 4381 body bytes, 1323 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(211): Error: Intineraries list empty, no data to delete	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

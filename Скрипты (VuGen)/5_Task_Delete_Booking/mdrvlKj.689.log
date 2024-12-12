@@ -1,0 +1,11 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(152): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(152): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(162): web_custom_request("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(162): Warning -35049: No match found for the requested parameter "new_c_cgifields". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(162): Warning -35049: No match found for the requested parameter "empty_list". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(162): web_custom_request("itinerary.pl") highest severity level was "warning", 932 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(191): Error: list_flightID_count not 0, but new_c_cgifields_count-1 and c_cgifields_count do not matches	[MsgId: MERR-17999]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

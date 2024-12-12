@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "open_homepage",
+        "rawStartTime": 1733743571269,
+        "rawEndTime": 1733743571690
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1733743571722,
+        "rawEndTime": 1733743571897
+    },
+    {
+        "transactionName": "delete_random_Intinerary",
+        "rawStartTime": 1733743572184,
+        "rawEndTime": 1733743572814
+    },
+    {
+        "transactionName": "open_Itinerary_list",
+        "rawStartTime": 1733743571929,
+        "rawEndTime": 1733743572846
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1733743572878,
+        "rawEndTime": 1733743573020
+    },
+    {
+        "transactionName": "5_Task_Delete_Booking",
+        "rawStartTime": 1733743571244,
+        "rawEndTime": 1733743573036
+    }
+]
